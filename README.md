@@ -1,2 +1,5 @@
-# python_project
- python project made by wael ben slimen wided msaken Raed Galai mortadtha houch 
+#Python-Project:
+	Python project made by Raed Galai, 
+				Wael Ben Slimen, 
+				Wided Msakem, 
+				Mortadtha El Houch.
